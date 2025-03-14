@@ -32,7 +32,7 @@ pip install requests beautifulsoup4 ebooklib pillow
 ## 📁 Estrutura do Projeto
 ```
 /
-│── script.py            # Código principal
+│── MangaReader.py            # Código principal
 │── README.md            # Este arquivo
 ```
 
